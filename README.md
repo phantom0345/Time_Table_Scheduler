@@ -23,7 +23,7 @@ This maps course lectures and labs to valid, non-overlapping time blocks.
 
 ## 🤝 Contributors
 
-- M. Yaswanth Sai – [LinkedIn]([https://www.linkedin.com/in/your-profile](http://www.linkedin.com/in/yaswanth-sai-mannem-800a75258))
+- M. Yaswanth Sai – [LinkedIn](http://www.linkedin.com/in/yaswanth-sai-mannem-800a75258)
 - **Guide:** Dr. Ajay Dilip Kumar Marapatla
 
 ---
